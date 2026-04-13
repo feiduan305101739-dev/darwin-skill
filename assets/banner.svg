@@ -59,16 +59,7 @@
     font-weight="900"
     fill="#FFFFFF"
     letter-spacing="-2"
-  >Auto Skill</text>
-  <text
-    x="80"
-    y="268"
-    font-family="'Inter', system-ui, -apple-system, sans-serif"
-    font-size="82"
-    font-weight="900"
-    fill="#FFFFFF"
-    letter-spacing="-2"
-  >Optimizer</text>
+  >better.skill</text>
 
   <!-- Subtitle pipeline -->
   <text
